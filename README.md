@@ -1,11 +1,15 @@
 ### Hi there 👋 , I am Markus Maisch from the south of Germany 🇩🇪
-Creating internet stuff for friends and improving physician communication with [coliquio](https://www.coliquio.de/)
+Creating internet stuff and improving physician communication with [coliquio](https://www.coliquio.de/)
 
 ---
 
 🧰  Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="AngularJS Logo" width="185" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg" alt="Storybook Logo" width="185" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm Logo" width="50" height="50"/>
+
+---
+
+😄 Pronouns: he / him / his
 
 ---
 
