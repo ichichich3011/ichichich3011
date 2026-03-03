@@ -2,11 +2,10 @@
 Creating internet stuff and improving physician communication with [coliquio](https://www.coliquio.de/)
 
 ---
-
-🧰  Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.JS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="AngularJS Logo" width="185" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg" alt="Storybook Logo" width="185" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm Logo" width="50" height="50"/>
-
+Senior Frontend Engineer shipping real features, not slide decks.
+Next.js, design systems, automation, pragmatic AI.
+I care about performance, clean abstractions, and buttons that feel right.
+I refactor for fun and occasionally build tools I wish already existed.
 ---
 
 Pronouns: he / him / his
