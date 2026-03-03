@@ -1,17 +1,17 @@
 ### Hi there 👋 , I am Markus from the south of Germany 🇩🇪
-Creating internet stuff and improving physician communication with [coliquio](https://www.coliquio.de/)
 
 ---
-Senior Frontend Engineer shipping real features, not slide decks.
+
+Senior Frontend Engineer shipping real features.
 Next.js, design systems, automation, pragmatic AI.
 I care about performance, clean abstractions, and buttons that feel right.
 I refactor for fun and occasionally build tools I wish already existed.
 
+Also creating internet stuff and improving physician communication with [coliquio](https://www.coliquio.de/)
+
+
 ---
 
-Pronouns: he / him / his
-
----
 
 <!--
 **ichichich3011/ichichich3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
