@@ -6,6 +6,7 @@ Senior Frontend Engineer shipping real features, not slide decks.
 Next.js, design systems, automation, pragmatic AI.
 I care about performance, clean abstractions, and buttons that feel right.
 I refactor for fun and occasionally build tools I wish already existed.
+
 ---
 
 Pronouns: he / him / his
